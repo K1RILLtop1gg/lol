@@ -1,1 +1,2 @@
-print('LOL')
+for i in range(5);
+    print('LOL')
